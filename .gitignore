@@ -1,0 +1,9 @@
+# Ignore node modules
+node_modules
+# Ignore the package and package-lock file
+package-lock.json
+package.json
+# Ignore the config file
+tailwind.config.js
+# Ignore the src folder
+src
